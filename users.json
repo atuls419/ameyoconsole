@@ -1,0 +1,95 @@
+[
+  {
+    "id": "umwa99w64pph3",
+    "name": "Atul Sharma",
+    "login": "Atul",
+    "email": "",
+    "role": "admin",
+    "status": "active",
+    "salt": "umwa99w6478pv",
+    "hash": "7494e49ad2b0d1053ff0000d6cab11913fa93c00bd41e4e1402ef3678011783c",
+    "perms": {
+      "tabs": {
+        "dash": true,
+        "lookup": true,
+        "sum": true,
+        "report": true,
+        "camps": true,
+        "procs": true,
+        "explorer": true
+      },
+      "gm": true,
+      "login": true,
+      "lists": true,
+      "export": true,
+      "campaigns": [],
+      "processes": []
+    },
+    "created": "2026-11-10T05:34:44.764Z",
+    "updated": "2026-11-10T05:34:44.764Z",
+    "lastLogin": "2026-11-11T11:20:29.388Z",
+    "logins": 7
+  },
+  {
+    "id": "umwbpdxe0k7wt",
+    "salt": "umwbpdxe0lrw8",
+    "hash": "5baabe43391a756f98b1a0818a5a5cd32f19a257a7a477e63eb79f06c987ada8",
+    "created": "2026-11-11T05:53:33.000Z",
+    "lastLogin": "2026-11-11T05:53:48.372Z",
+    "logins": 1,
+    "name": "Anup Kumar Srivastava",
+    "login": "83008",
+    "email": "",
+    "role": "admin",
+    "status": "active",
+    "perms": {
+      "tabs": {
+        "dash": true,
+        "lookup": true,
+        "sum": true,
+        "report": true,
+        "camps": true,
+        "procs": true,
+        "explorer": true
+      },
+      "gm": true,
+      "login": true,
+      "lists": true,
+      "export": true,
+      "campaigns": [],
+      "processes": []
+    },
+    "updated": "2026-11-11T05:53:33.000Z"
+  },
+  {
+    "id": "umwbpwf21nxk0",
+    "salt": "umwbpwf21zly5",
+    "hash": "947532d004a03d18f70b04954dda3d48936b57d6649a38e09fc5e3d70b3c5d8b",
+    "created": "2026-11-11T06:07:55.705Z",
+    "lastLogin": "2026-11-11T06:08:29.673Z",
+    "logins": 1,
+    "name": "Vidya Sagar",
+    "login": "83054",
+    "email": "",
+    "role": "user",
+    "status": "active",
+    "perms": {
+      "tabs": {
+        "dash": true,
+        "lookup": true,
+        "sum": true,
+        "report": true,
+        "camps": true,
+        "procs": true,
+        "explorer": false
+      },
+      "gm": true,
+      "login": true,
+      "lists": true,
+      "export": true,
+      "campaigns": [],
+      "processes": []
+    },
+    "updated": "2026-11-11T06:07:55.705Z"
+  }
+]
